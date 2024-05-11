@@ -1,0 +1,23 @@
+[file:///home/moy/bin/rebuild]
+Bookmarks=
+Checksum=9aefe8d0d74fae76f3fb31fa579e4b15d7658876
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2024,5,10,1,17,32.003
+URL=file:///home/moy/bin/rebuild
+
+[file:///nix/store/i2bvfigbyk4xv83ka75sd60gdh2cdqkq-nix.conf]
+Bookmarks=
+Checksum=e8e948fb60a2ba1abb7d8d25984b437cba95b8b8
+Encoding=UTF-8
+Highlighting=TOML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=TOML
+Mode Set By User=false
+Time=2024,5,10,0,48,52.213
+URL=file:///nix/store/i2bvfigbyk4xv83ka75sd60gdh2cdqkq-nix.conf
